@@ -4,6 +4,8 @@ Paddle.h
 The "Paddle" can be thought of
 as a player in this game
 */
+#ifndef PADDLE_H
+#define PADDLE_H
 
 #include <iostream>
 #include <vector>
@@ -11,3 +13,5 @@ as a player in this game
 class Paddle{
     
 }
+
+#endif

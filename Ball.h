@@ -1,3 +1,6 @@
+#ifndef BALL_H
+#define BALL_H
+
 #include <iostream>
 #include <SDL.h>
 
@@ -8,3 +11,4 @@ class Ball{
     private:
         vector<double> position;
 };
+
