@@ -1,2 +1,2 @@
 test:
-	g++ SDLTest.cpp `sdl-config --cflags --libs` -o sdltest
+	g++ SDLTest2.cpp -w -lSDL2 -o sdltest
