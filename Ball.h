@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include <SDL.h>
+#include <vec2.hpp>
 
 class Ball{
     public:
