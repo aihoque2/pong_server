@@ -1,2 +1,2 @@
-test:
-	g++ SDLTest2.cpp -w -lSDL2 -o sdltest
+test_sdl:
+	g++ SDL2Test.cpp -w -lSDL2 -o sdltest
