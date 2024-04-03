@@ -19,7 +19,7 @@ class Paddle{
         Vec2 setPosition(Vec2 newPosition);
 
     private:
-        Vec2 Position;
+        Vec2 position_;
     
 }
 
